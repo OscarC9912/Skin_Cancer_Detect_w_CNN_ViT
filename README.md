@@ -19,7 +19,6 @@ Skin cancer is a common and deadly disease, and early detection is crucial for s
 
 
 
-
 # Contribution:
 William Gagné: 
 - implement the Convolutional Neural Network
@@ -32,3 +31,11 @@ Boyuan Cui (Bryan):
 Zhonghan Chen (Oscar): 
 - implement the code for data pre-processing and the dataloader for ViT
 - Responsible for the Introduction, Dataset, Model Comparison Analysis, and Appendix organization of the Paper
+
+
+# Architecture:
+![Inception V3](https://user-images.githubusercontent.com/74989268/233215991-b2979d2b-ae83-43ff-837d-d0a60f3be04e.png)
+
+![Vision Transformer](https://user-images.githubusercontent.com/74989268/233216076-f82d1f8c-1038-4ccb-a5bc-f32efb3da8ef.png)
+
+
