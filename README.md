@@ -1,1 +1,1 @@
-# Skin_Cancer_Detect_w_CNN_ViT
+# Skin Cancer Detection with Convolutional Neural Network and Vision Transformer
