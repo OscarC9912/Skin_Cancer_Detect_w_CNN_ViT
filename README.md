@@ -9,11 +9,11 @@ Skin cancer is a common and deadly disease, and early detection is crucial for s
 
 `data_processor.ipynb`: contains code for initial data pre-pocessor for the Dataset
 
-`Skin_Cancer_CNN_ADAM.ipynb`: contains the code for class imbalanced CNN in the paper
+`Skin_Cancer_CNN_ADAM.ipynb`: contains the code (tensorflow) for class imbalanced CNN in the paper
 
-`Skin_Cancer_CNN_Paper.ipynb`: contains the code that reproduce the [Esteva et, al.'s paper](https://www.nature.com/articles/nature21056)
+`Skin_Cancer_CNN_Paper.ipynb`: contains the code (tensorflow) that reproduce the [Esteva et, al.'s paper](https://www.nature.com/articles/nature21056)
 
-`vit_model.ipynb`: contains the code for ViT Model in the paper
+`vit_model.ipynb`: contains the code (PyTorch) for ViT Model in the paper
 
 
 
